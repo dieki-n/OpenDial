@@ -1,6 +1,6 @@
 # OpenDial
 
-This project is ESP32 firmware for a clone of a Microsoft Surface Dial-like device. 
+This project is ESP32 firmware for a bluetooth rotary dial device. The main purpose of this device is for use with creativity and art programs, like photoshop. 
 
 ![Image of the device](https://i.redd.it/zjgpwo4b77751.jpg)
 
